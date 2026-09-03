@@ -1,3 +1,11 @@
+/*
+Parker Wales
+pa945111 @ucf.edu
+PracticeProblem1
+Dr. Rahaman
+COP 3233C - Intro to C Programming
+*/
+
 #include <stdio.h>
 int main(void) {
 	int a;
